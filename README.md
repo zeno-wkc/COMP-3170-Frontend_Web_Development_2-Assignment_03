@@ -8,8 +8,8 @@ Then clone your new repository onto your local machine.
 Alternatively, you can use `degit`:
 
 ```
-mkdir lab3
+<s>mkdir lab3
 cd lab3
-npx degit yveshema/COMP3170-week4-lab3
+npx degit yveshema/COMP3170-week4-lab3></s>
 ```
 
